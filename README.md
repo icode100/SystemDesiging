@@ -8,7 +8,7 @@ Welcome to the **Low-Level Design (LLD)** repository! This repository contains a
 - 🔍 **Focus Areas**: OOP principles, design patterns, and system design fundamentals.
 
 ## Problem List
-- ✅ Problem 1: [Tic Tac Toe](#)
+- ✅ Problem 1: [Tic Tac Toe](https://github.com/icode100/SystemDesiging/tree/main/Tic%20Tac%20Toe)
 
 
 ## How to Use
